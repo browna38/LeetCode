@@ -1,6 +1,12 @@
 //Question1_AdamBrown
 //Runtime: 1556 ms, faster than 5.31% of C++ online submissions for Two Sum.
 //Memory Usage: 7.2 MB, less than 100.00% of C++ online submissions for Two Sum.
+
+//
+//Big O(n^2)
+//
+
+
 #include <vector>
 
 using namespace std;
